@@ -4,4 +4,3 @@ The project involves analyzing a Netflix dataset to uncover insights about its c
 By leveraging data visualization and statistical methods, the analysis helps identify popular content categories and provides recommendations for platform optimization.
 
 In this Netflix data analysis project, key skills include data manipulation using Pandas to clean and preprocess the dataset and NumPy for numerical computations. For data visualization, Plotly Express was utilized to create interactive and insightful plots. Exploratory Data Analysis (EDA) techniques were employed to identify trends and patterns in the dataset.
-![download](https://github.com/user-attachments/assets/f573b6ae-21ea-4b91-8f9a-58a7ef303b4b)
